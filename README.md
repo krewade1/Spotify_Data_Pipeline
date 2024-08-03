@@ -9,3 +9,11 @@ Building automated trigger on transformation function
 Store files on S3 properly
 Building Analytics Tables on data files using Glue and Athena
 Visualizing Data using AWS Quicksight
+
+## Tools Used
+- Spotify Api
+- AWS S3
+- AWS LAMBDA
+- AWS GLUE
+- AWS ATHENA
+- AWS QuickSight
